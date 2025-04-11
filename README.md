@@ -13,6 +13,19 @@ Hi 👋, I'm Rupak!<br>Currently exploring the world of web development with the
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupak-at&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+
+<p align="center">
+  <strong>
+    <span style="font-size: 50px;">
+      “Debugging is like being the detective in a crime movie where you are also the murderer.”
+    </span><br/>
+    — Filipe Fortes
+  </strong>
+</p>
+
+---
+
+---
 [![](https://visitcount.itsvg.in/api?id=rupak-at&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
