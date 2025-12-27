@@ -24,7 +24,7 @@ Junior Full Stack Developer | MERN Stack | Learning in Public
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rupak-at&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=rupak-at&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=rupak-at&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupak-at&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 *Note: Commit count includes "fix typo", "actually fix typo", and "why is this not working" commits*
