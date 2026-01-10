@@ -4,7 +4,7 @@ Junior Full Stack Developer | MERN Stack | Learning in Public
 
 ## Where I'm At Right Now
 
-Been on my web development journey, continuously learning and honestly? It's been a wild ride. Started from tutorial hell, made it through a 3-month internship, and now working as a junior full stack developer. Still Googling "how to center a div" sometimes, but also shipping real features to production.
+Been on my web development journey, continuously learning, and honestly? It's been a wild ride. Started from tutorial hell, made it through a 3-month internship, and now working as a junior full stack developer. Still Googling "how to center a div" sometimes, but also shipping real features to production.
 
 **Current Reality Check:**
 - 💼 Working as a Junior Full Stack Developer
