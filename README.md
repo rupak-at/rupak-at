@@ -1,25 +1,14 @@
-# Hey, I'm Rupak 👋
+# Hello👋
 
-Junior Full Stack Developer | MERN Stack | Learning in Public
+I am a const {DEVELOPER}
 
-## Where I'm At Right Now
-
-I've been on my web development journey, continuously learning, and honestly? It's been a wild ride. Started from tutorial hell, made it through a 3-month internship, and now working as a junior full stack developer. Still Googling "how to center a div" sometimes, but also shipping real features to production.
-
-**Current Reality Check:**
-- 💼 Working as a Junior Full Stack Developer
-- 🎓 3 months of internship experience under my belt
-- 🚀 Comfortable with MERN stack, but still learning something new every day
-- 🐛 Getting better at debugging (and creating fewer bugs...  hopefully)
-- 📚 That tutorial I bookmarked? Yeah, I'll get to it...  eventually
-
-## What I Actually Work With
+## Working as Junior Developer
 
 **Day-to-Day Tools:**
-- Frontend: React, JavaScript, HTML/CSS (Flexbox still wins over Grid for me)
+- Frontend: React, JavaScript, HTML/CSS , Next js
 - Backend: Node.js, Express
 - Database: MySql
-- Version Control: Git (yes, I've force-pushed to main before...  once...  but in personal project)
+- Version Control: Git 
 
 ## Stats
 
@@ -27,7 +16,6 @@ I've been on my web development journey, continuously learning, and honestly? It
 ![](https://nirzak-streak-stats.vercel.app/?user=rupak-at&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupak-at&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-*Note: Commit count includes "fix typo", "actually fix typo", and "why is this not working" commits*
 
 ## Let's Connect
 
