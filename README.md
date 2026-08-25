@@ -17,12 +17,12 @@ Full-stack developer | building reliable web applications, APIs, real-time syste
 <p align="center">
   <img
     height="170"
-    src="https://github-stats-extended.vercel.app/api?username=rupak-at&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github"
+    src="![GitHub Stats](./profile/stats.svg)"
     alt="GitHub Stats"
   />
   <img
     height="170"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rupak-at&layout=compact&langs_count=8&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5"
+    src="![Top Languages](./profile/top-langs.svg)"
     alt="Top Languages"
   />
 </p>
