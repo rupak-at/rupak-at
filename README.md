@@ -17,12 +17,12 @@ Full-stack developer | building reliable web applications, APIs, real-time syste
 <p align="center">
   <img
     height="170"
-    src="![GitHub Stats](./profile/stats.svg)"
+    src="./profile/stats.svg"
     alt="GitHub Stats"
   />
   <img
     height="170"
-    src="![Top Languages](./profile/top-langs.svg)"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
   />
 </p>
