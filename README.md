@@ -9,7 +9,7 @@ Full-stack developer | building reliable web applications, APIs, real-time syste
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mysql,redis,prisma,docker,git,github,linux&perline=14"
+    src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mysql,redis,prisma,git,github,linux&perline=14"
     alt="Tech Stack"
   />
 </p>
